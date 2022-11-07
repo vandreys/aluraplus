@@ -11,3 +11,8 @@ A aplicação consiste em um layout de uma página de comunidade de skate, sendo
 
 
 ## Layout Mobile
+
+## Competencias:
+- mobile-fist
+- flexbox e grid
+...
